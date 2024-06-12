@@ -13,13 +13,13 @@
 
 # Permission
 
- #<uses-permission android:name="android.permission.CAMERA"/>
+ android:name="android.permission.CAMERA"
   
- #<uses-permission android:name="android.permission.RECORD_AUDIO"/>
+ android:name="android.permission.RECORD_AUDIO"
     
-#<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+android:name="android.permission.WRITE_EXTERNAL_STORAGE"
     
-#<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+android:name="android.permission.READ_EXTERNAL_STORAGE"
 
 # Screen Vedio
 
