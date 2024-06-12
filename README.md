@@ -12,7 +12,8 @@
   path: ^1.8.3
 
 # Permission
-  <uses-permission android:name="android.permission.CAMERA"/>
+
+ <uses-permission android:name="android.permission.CAMERA"/>
   
  <uses-permission android:name="android.permission.RECORD_AUDIO"/>
     
