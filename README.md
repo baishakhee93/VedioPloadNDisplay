@@ -1,5 +1,7 @@
 # video_upload_display_android
 
+Video upload from Gallary or do Recoding and Display
+
 # Dependancys
   camera: ^0.10.0+4
   
